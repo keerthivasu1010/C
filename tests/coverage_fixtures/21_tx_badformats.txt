@@ -1,0 +1,12 @@
+2
+regtest2
+password1
+1234
+2
+ab
+5
+2
+a#b@digitalbank
+5
+7
+3
